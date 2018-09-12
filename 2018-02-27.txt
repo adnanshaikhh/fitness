@@ -1,0 +1,9 @@
+milk:150
+oil:8
+tomato:110
+cucumber:118
+chicken:150
+whey:100
+guava:20
+sweet lime:114
+eggs boiled:115
